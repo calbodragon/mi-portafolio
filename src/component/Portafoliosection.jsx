@@ -3,8 +3,8 @@ import imagen1 from '../img/portfolio/thumbnails/hackthon.png';
 import image from '../img/portfolio/fullsize/hackthon.png';
 import imagen2 from '../img/portfolio/thumbnails/geek.jpg';
 import geek from '../img/portfolio/fullsize/geek.jpg';
-import go from '../img/portfolio/thumbnails/recycling.jpg';
-import recycling from '../img/portfolio/fullsize/recycling.jpg';
+import go from '../img/portfolio/thumbnails/gorecycling.jpg';
+import recycling from '../img/portfolio/fullsize/gorecycling.jpg';
 import tienda from '../img/portfolio/fullsize/tienda.png';
 import tienda2 from '../img/portfolio/thumbnails/tienda.png';
 
@@ -68,7 +68,7 @@ const Portafoliosection=()=>{
                Proyecto
               </div>
               <div className="project-name">
-              Go recycling
+                    <a href="https://infallible-meitner-9151f8.netlify.com" target="_blank">Go recycling</a>
               </div>
             </div>
           </a>
